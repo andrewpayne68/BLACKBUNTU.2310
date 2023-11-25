@@ -1,5 +1,7 @@
 <p align="center"><img src="https://i.ibb.co/dJndJ41/ubuntu-logo.png" alt="ubuntu-logo" border="0">
 
+<a href="https://ibb.co/93LxDrW"><img src="https://i.ibb.co/NnP0vyK/blackbuntu2310.png" alt="blackbuntu2310" border="0"></a>
+
 * * *
 This is a fully themed installation build script to convert Ubuntu 23.10 to Blackbuntu 23.10 and best to run on a new clean installation. 
 
