@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.ibb.co/dJndJ41/ubuntu-logo.png" alt="ubuntu-logo" border="0">
 
 * * *
-This is a fully themed installation build script to convert Ubuntu 23.10 LTS to Blackbuntu 23.10 and best to run on a new clean installation. 
+This is a fully themed installation build script to convert Ubuntu 23.10 to Blackbuntu 23.10 and best to run on a new clean installation. 
 
 Download the latest 23.10 Build ISO from here: `https://ubuntu.com/download/desktop`
 
@@ -12,13 +12,13 @@ Download the latest 23.10 Build ISO from here: `https://ubuntu.com/download/desk
 sudo apt-get -y install git
 ```
 ```
-git clone https://github.com/andrewpayne68/blackbuntu.tar.xz.git
+git clone https://github.com/andrewpayne68/blackbuntu.2310.git
 ```
 ```
-cd blackbuntu.tar.xz
+cd blackbuntu.2310
 ```
 ```
-tar -xf blackbuntu.tar.xz
+tar -xf blackbuntu-2310.tar.xz
 ```
 ```
 ./build.sh
@@ -26,7 +26,7 @@ tar -xf blackbuntu.tar.xz
 
 OR run the all-in-one bash command
 ```
-sudo apt-get -y install git && git clone https://github.com/andrewpayne68/blackbuntu.tar.xz.git && cd blackbuntu.tar.xz && tar -xf blackbuntu.tar.xz && ./build.sh
+sudo apt-get -y install git && git clone https://github.com/andrewpayne68/blackbuntu.2310.git && cd blackbuntu.2310 && tar -xf blackbuntu-2310.tar.xz && ./build.sh
 ```
 
 
