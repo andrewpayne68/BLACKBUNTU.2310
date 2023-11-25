@@ -1,6 +1,14 @@
-<p align="center"><img src="https://i.ibb.co/dJndJ41/ubuntu-logo.png" alt="ubuntu-logo" border="0">
+<p align="center"><a href="https://ibb.co/93LxDrW"><img src="https://i.ibb.co/NnP0vyK/blackbuntu2310.png" alt="blackbuntu2310" border="0" width="50%" height="50%"></a></p>
 
-<a href="https://ibb.co/93LxDrW"><img src="https://i.ibb.co/NnP0vyK/blackbuntu2310.png" alt="blackbuntu2310" border="0"></a>
+##
+
+This is a fully themed installation build script to convert Ubuntu 22.04 LTS to Blackbuntu 22.04 LTS and best to run on a new clean installation. 
+
+Download the latest 22.04 LTS Build ISO from here: `https://ubuntu.com/download/desktop`
+
+(Note this script and theme will not work correctly on newer builds of ubuntu, such as 23.04 or 23.10, check this repo for one for 22.04 - https://github.com/andrewpayne68/BLACKBUNTU.2310)
+##
+
 
 * * *
 This is a fully themed installation build script to convert Ubuntu 23.10 to Blackbuntu 23.10 and best to run on a new clean installation. 
