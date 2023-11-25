@@ -21,12 +21,12 @@ cd blackbuntu.2310
 tar -xf blackbuntu-2310.tar.xz
 ```
 ```
-./build.sh
+cd blackbuntu-2310 && ./build.sh
 ```
 
 OR run the all-in-one bash command
 ```
-sudo apt-get -y install git && git clone https://github.com/andrewpayne68/blackbuntu.2310.git && cd blackbuntu.2310 && tar -xf blackbuntu-2310.tar.xz && ./build.sh
+sudo apt-get -y install git && git clone https://github.com/andrewpayne68/blackbuntu.2310.git && cd blackbuntu.2310 && tar -xf blackbuntu-2310.tar.xz && cd blackbuntu-2310 && ./build.sh
 ```
 
 
