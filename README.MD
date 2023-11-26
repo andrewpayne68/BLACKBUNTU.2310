@@ -50,6 +50,6 @@ sudo apt-get -y install git && git clone https://github.com/andrewpayne68/blackb
 
 
 
-![image-1](https://github.com/andrewpayne68/BLACKBUNTU.2310/blob/main/Blackbuntu-desktop-2310.png)
+![image-1](https://github.com/andrewpayne68/BLACKBUNTU.2310/blob/main/Blackbuntu-desktop-2310.PNG)
 
 
