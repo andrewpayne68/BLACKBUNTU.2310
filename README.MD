@@ -1,7 +1,7 @@
 <p align="center"><a href="https://ibb.co/DzZFK8v"><img src="https://i.ibb.co/FmF170y/BLACKBUNTU-LOGO-2.png" alt="BLACKBUNTU-LOGO-2" border="0" width="50%" height="50%"></a></p>
 
 ##
-This is a fully themed installation build script to convert Ubuntu 23.10 to Blackbuntu 23.10 and best to run on a new clean installation. 
+This is a fully themed installation build script to convert Ubuntu 23.10 and 24.04 LTS to Blackbuntu. It is recommended to execute on a clean installation. 
 
 Download the latest Ubuntu ISO from here: `https://ubuntu.com/download/desktop`
 
