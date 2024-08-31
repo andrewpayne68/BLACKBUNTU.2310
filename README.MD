@@ -5,7 +5,7 @@ This is a fully themed installation build script to convert Ubuntu 23.10 to Blac
 
 Download the latest Ubuntu ISO from here: ` https://ubuntu.com/download/desktop `
 
-(Note this script and theme will not work correctly on older builds of ubuntu, such as 22.04 LTS, check this repo for one for 22.04 - https://github.com/andrewpayne68/BLACKBUNTU.2204)
+Note this script and theme will not work correctly on older builds of ubuntu, such as 22.04 LTS, check this repo for one for 22.04 - https://github.com/andrewpayne68/BLACKBUNTU.2204 and https://github.com/andrewpayne68/blackbuntu2404 for 24.04 LTS
 ##
 
 ```
